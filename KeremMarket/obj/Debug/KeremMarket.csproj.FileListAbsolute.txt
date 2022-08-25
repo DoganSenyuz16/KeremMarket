@@ -1,0 +1,10 @@
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.exe.config
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.exe
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.pdb
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.AssemblyReference.cache
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.Properties.Resources.resources
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.GenerateResource.cache
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.CoreCompileInputs.cache
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.exe
+C:\Users\Doğan Şenyüz\Documents\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.pdb
