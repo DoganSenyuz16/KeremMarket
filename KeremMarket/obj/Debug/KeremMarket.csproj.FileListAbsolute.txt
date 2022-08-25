@@ -1,0 +1,11 @@
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.exe.config
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.exe
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\bin\Debug\KeremMarket.pdb
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.AssemblyReference.cache
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.SuggestedBindingRedirects.cache
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.Form1.resources
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.Properties.Resources.resources
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.GenerateResource.cache
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.csproj.CoreCompileInputs.cache
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.exe
+D:\ÖNEMLİ KLASÖR\GitHub\KeremMarket\KeremMarket\obj\Debug\KeremMarket.pdb
